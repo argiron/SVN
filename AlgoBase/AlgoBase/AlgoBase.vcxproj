@@ -64,6 +64,10 @@
   <ItemGroup>
     <ClCompile Include="FirstTest.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MathHelp.h" />
+    <ClInclude Include="Points.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
